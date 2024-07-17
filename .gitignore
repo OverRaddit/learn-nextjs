@@ -1,0 +1,9 @@
+# .gitignore 참고
+.next
+node_modules
+/out
+.DS_Store
+*.pem
+
+/coverage
+next-env.d.ts
